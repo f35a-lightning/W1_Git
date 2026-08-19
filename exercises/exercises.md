@@ -3,7 +3,7 @@ How to change repository when cloning from someone else?
 -	git remote -v                       (you will see other repository)
 -	git remote remove origin 
 -	git remote -v                       (you should see nothing)
--	git remote add origin <URL>
+-	git remote add origin <your repository URL>   (your own repository url)
 
 # Week 1 Lab : Git Command Checklist
 
